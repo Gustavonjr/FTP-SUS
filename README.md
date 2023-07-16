@@ -20,4 +20,4 @@ Este repositório contém scripts em PowerShell para fazer o download de arquivo
 
 ## Observações
 - Os arquivos baixados serão salvos nas pastas de destino especificadas nos scripts.
-- O registro de log dos arquivos baixados será salvo no arquivo `download_log.txt` localizado em `\\e0211\SUS\`.
+- O registro de log dos arquivos baixados será salvo no arquivo `download_log.txt` localizado em `\\LocalOndeSeráSalvo\SUS\`.
